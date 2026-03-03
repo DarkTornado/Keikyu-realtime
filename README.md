@@ -5,9 +5,9 @@
 ## 정보 출처
  - [케이큐 앱 내부에서 보여주는 웹페이지](https://app-kq.net/web/jp/html/zaisen.html)
 
-## To do
- - [x] 본선
- - [x] 공항선
- - [x] 즈시선
- - [x] 쿠리하마선
- - [x] 다이시선
+## 사용법
+```bash
+$ git clone https://github.com/DarkTornado/Keikyu-realtime
+$ cd Keikyu-realtime
+$ node server.js
+```
